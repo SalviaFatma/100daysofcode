@@ -9,4 +9,5 @@
 |Day 3|Jan 4, 2022| Learning data structures | (https://www.w3schools.com/python/) |
 |Day 4|Jan 5, 2022| Learning data structures | (https://www.w3schools.com/python/) |
 |Day 5|Jan 6, 2022| Learning data structures | (https://www.w3schools.com/python/) |
+|Day 6|Jan 7, 2022| Learning data structures | (https://www.w3schools.com/python/) |
 

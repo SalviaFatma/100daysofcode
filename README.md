@@ -14,7 +14,7 @@
 |Day 8|Jan 16, 2022| Learning data structures | (https://www.w3schools.com/python/) |
 |Day 9|Jan 17, 2022| Learning data structures | (https://www.w3schools.com/python/) |
 |Day 10|Jan 18, 2022| Learning File Handing | (https://www.w3schools.com/python/) |
-|Day 11|Jan 19, 2022| Learning Oops Concept | (https://www.w3schools.com/python/) |
+|Day 11|Jan 19, 2022| Learning Oops Concept | (https://www.youtube.com/watch?v=a199KZGMNxk) |
 |Day 12|Jan 20, 2022| Learning Oops Concept | (https://www.youtube.com/watch?v=a199KZGMNxk) |
 
 
